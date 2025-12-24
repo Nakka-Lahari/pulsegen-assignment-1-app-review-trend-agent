@@ -1,7 +1,7 @@
  Assignment 1: App Review Trend Detection Agent
 
  Candidate Details
-- Name: <NAKKA LAHARI>
+- Name: NAKKA LAHARI 
 - Assignment Chosen: Assignment 1 – App Review Trend Detection Agent
 
  Objective
