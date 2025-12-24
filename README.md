@@ -25,7 +25,6 @@ to detect trends, issues, and positive feedback using embeddings and vector sear
 
  How to Run
 1. Install dependencies:
-git clone <YOUR_GITHUB_REPO_LINK>
 cd assignment_1_app_review_trend_agent
 2. Create and activate conda environment:
 conda create -n ai-agent python=3.10
